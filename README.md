@@ -6,4 +6,5 @@
   * 道を曲がりきれないときに、バックによる切り返しが可能
   * 8方向のラベル：東・西・南・北・北東・北西・南東・南西
 
-<img width="580" alt="image" src="https://github.com/YoshimiNana/AutoDrive_PBL/assets/93458998/2c1e945d-3fa4-4d2d-9aff-de0f3d0b7529">
+https://github.com/YoshimiNana/AutoDrive_PBL/assets/93458998/ae81d4e8-1171-40a4-bd60-777e369751ad
+
