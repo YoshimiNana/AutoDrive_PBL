@@ -1,5 +1,4 @@
-![image](https://github.com/YoshimiNana/AutoDrive_PBL/assets/93458998/c90ff484-e460-488f-8024-983a2dae5c13)
-
+https://github.com/YoshimiNana/AutoDrive_PBL/assets/93458998/ae81d4e8-1171-40a4-bd60-777e369751ad
 ## 自動運転の概要
 * JetRacer（NVIDIA Jetson Nano を搭載した AI レースカー）によって自動運転を行う  
 * 基本的なプログラムは公式の [NVIDIA AI IOT](https://github.com/NVIDIA-AI-IOT/jetracer) から使用  
@@ -17,5 +16,5 @@
    リアルタイムで車の前方のカメラから画像を取得。  
    学習したモデルで車が進む方向を予測。（PBL_smp.ipynb）  
 
-   https://github.com/YoshimiNana/AutoDrive_PBL/assets/93458998/ae81d4e8-1171-40a4-bd60-777e369751ad
+  
 
